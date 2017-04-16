@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	url = git@github.com:jyoti-jha/Test.git
+[remote "origin"]
+	url = https://github.com/jyoti-jha/temp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
